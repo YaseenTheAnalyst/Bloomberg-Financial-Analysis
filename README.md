@@ -27,6 +27,10 @@ The project consists of several key elements:
    - **EBIT Over Time (Historical vs. Forecast)**: Line chart illustrating EBIT changes over the years and forecasted figures.
    - **Revenue Growth & Profit Margins**: Charts tracking growth and margins in each scenario.
    - **Scenario Analysis Dashboard**: A visual representation of Revenue, Gross Profit, and EBIT under different forecast scenarios for 2024.
+     
+5. **Insights Page**  
+   The key findings based on growth and profitability analysis for each forecast scenario.
+   ![Insights Page](images/5)
 
 ## How to Explore the Project
 
