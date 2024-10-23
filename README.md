@@ -19,20 +19,28 @@ The project consists of several key elements:
 2. **Profit & Loss (P&L) Statement**  
    A detailed P&L statement is provided, breaking down the revenue streams and operating expenses, offering insights into the business’s overall performance over the years.
 
+   ![P&L Statement](images/2.png)
+
+
 3. **Forecast Models**  
    Three scenarios—base, strong, and weak—are built to predict future financial performance for 2024 and 2025:
    - **Base Case**: Assumes moderate revenue growth and stable expenses.
    - **Strong Case**: Assumes higher-than-average revenue growth and improved efficiency in operating expenses.
    - **Weak Case**: Assumes lower revenue growth with potential increases in operating costs.
 
-4. **Dynamic Dashboards & Visualizations**  
+   ![Base Case](images/3.png)
+   ![Strong Case](images/4.png)
+   ![Weak Case](images/5.png)
+
+
+5. **Dynamic Dashboards & Visualizations**  
    The project includes:
    - **Revenue over Time (Historical vs. Forecast)**: Line chart comparing actual revenue to projected figures.
    - **EBIT Over Time (Historical vs. Forecast)**: Line chart illustrating EBIT changes over the years and forecasted figures.
    - **Revenue Growth & Profit Margins**: Charts tracking growth and margins in each scenario.
    - **Scenario Analysis Dashboard**: A visual representation of Revenue, Gross Profit, and EBIT under different forecast scenarios for 2024.
      
-5. **Insights Page**  
+6. **Insights Page**  
    The key findings based on growth and profitability analysis for each forecast scenario.
    ![Insights Page](images/5)
 
