@@ -45,7 +45,7 @@ The project consists of several key elements:
      
 6. **Insights Page**  
    The key findings based on growth and profitability analysis for each forecast scenario.
-   ![Insights Page](images/7)
+   ![Insights Page](images/7.png)
 
 ## How to Explore the Project
 
