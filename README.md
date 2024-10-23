@@ -33,10 +33,12 @@ The project consists of several key elements:
 1. **Spreadsheet Access**  
    A comprehensive spreadsheet is available that contains all the raw data, analysis, and forecast calculations. You can dive into the data to understand how each metric was derived.
 
-   - [[Spreadsheet Link](https://docs.google.com/spreadsheets/d/1BiD8oHuSKxSh-g2shcsBQtCunnF_q8RNGCYodlP9o6k/edit?usp=sharing)](#)
+   - [[Project Details](https://docs.google.com/spreadsheets/d/1BiD8oHuSKxSh-g2shcsBQtCunnF_q8RNGCYodlP9o6k/edit?usp=sharing)]
 
 2. **Video Walkthrough**  
    A short video accompanies this project, walking you through the key insights, charts, and forecasts in a simplified, visual format.
+   - [[Project Walkthrough]((https://www.linkedin.com/feed/update/urn:li:activity:7254109474586542080/)]
+
 
 ## Insights & Key Findings
 
@@ -45,8 +47,7 @@ The project consists of several key elements:
 - **Profit Margins**: Gross profit margins have been stable, with the base case projecting a moderate increase, while the weak case shows a potential slight decline in profitability.
 
 ## Tools Used
-- **Microsoft Excel**: For data manipulation, analysis, and building forecast models.
-- **Power BI**: For creating interactive visualizations and dashboards.
+- **Google Sheets**: For data manipulation, analysis, and building forecast models.
 - **Bloomberg**: Source of historical financial data.
 
 ## How to Use this Project
