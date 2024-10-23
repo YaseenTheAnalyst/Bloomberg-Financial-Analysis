@@ -11,6 +11,8 @@ The project consists of several key elements:
    - Revenue segmented by wholesale, retail, and other businesses
    - Operating expenses, gross profits, and EBIT (Earnings Before Interest and Taxes)
    - Financial metrics including profit margins and revenue growth rates
+   ![Data Source](images/1)
+
 
 2. **Profit & Loss (P&L) Statement**  
    A detailed P&L statement is provided, breaking down the revenue streams and operating expenses, offering insights into the business’s overall performance over the years.
