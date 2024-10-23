@@ -40,9 +40,12 @@ The project consists of several key elements:
    - **Revenue Growth & Profit Margins**: Charts tracking growth and margins in each scenario.
    - **Scenario Analysis Dashboard**: A visual representation of Revenue, Gross Profit, and EBIT under different forecast scenarios for 2024.
      
+   ![Dashboard](images/6.png)
+
+     
 6. **Insights Page**  
    The key findings based on growth and profitability analysis for each forecast scenario.
-   ![Insights Page](images/5)
+   ![Insights Page](images/7)
 
 ## How to Explore the Project
 
