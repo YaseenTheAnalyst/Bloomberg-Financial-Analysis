@@ -37,7 +37,7 @@ The project consists of several key elements:
 
 2. **Video Walkthrough**  
    A short video accompanies this project, walking you through the key insights, charts, and forecasts in a simplified, visual format.
-   - [[Project Walkthrough]((https://www.linkedin.com/feed/update/urn:li:activity:7254109474586542080/)]
+   - [[Project Walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7254109474586542080/)]
 
 
 ## Insights & Key Findings
